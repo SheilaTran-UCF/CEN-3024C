@@ -69,4 +69,4 @@ Once the user submits the form, the input is validated, and the formatted result
 - Ensure all fields are filled in properly; there may be missing error handling for incomplete forms.
 
 ## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](MIT LICENSE) file for details.
